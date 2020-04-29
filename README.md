@@ -12,5 +12,5 @@ We made the web application using flask for our backend and HTML, CSS, Bootstrap
 The first challenge we faced was collecting the datasets. Because we decided to create our own data set, we had to obtain 70 different datasets. The second challenge we faced was recalibrating the sensor. Due to time constraints, it was difficult to obtain all the databases we have collected. The third challenge we faced was working with technologies like flask, bootstrap, and firebase because it was not familiar with most of the members in the group. Therefore, we had to learn it before executing the project.
 
 
-In order to know more about the project and access the hardware we made, please visit my devpost. The URl is right below:
+In order to know more about the project and access the hardware we made, please visit my devpost. The URl is right here:
 [GitHub Pages](https://devpost.com/software/recycler-62ndj3)
